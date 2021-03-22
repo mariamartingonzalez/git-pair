@@ -1,0 +1,23 @@
+{
+  "name": "git-pair",
+  "version": "1.0.0",
+  "description": "Test Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariamartingonzalez/git-pair.git"
+  },
+  "author": "josemendezlara@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariamartingonzalez/git-pair/issues"
+  },
+  "homepage": "https://github.com/mariamartingonzalez/git-pair#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
